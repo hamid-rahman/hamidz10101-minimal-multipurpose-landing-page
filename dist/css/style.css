@@ -271,9 +271,10 @@ nav ul li a{
     font-family: 'Nunito Sans', sans-serif;
     font-size: 13px;
 }
-.second-service-card-main{
+.second-service-card-main {
     display: flex;
     padding: 100px 0;
+    margin-right: 50px;
 }
 .second-service-card-content{
     margin-left: 58px;
